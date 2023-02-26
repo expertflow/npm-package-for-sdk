@@ -60,4 +60,4 @@ Once all these pre-requisite packages are installed, We're ready to install Reac
 > npm i sdk-for-customer-facing-channels 
 
 Now just include the SDK package into the file where SDK functions are required and experience the Expertflow CX Features.
-> const customerSDK = require('./sdk-for-customer-facing-channel/index.js');
+> const customerSDK = require('sdk-for-customer-facing-channel');
