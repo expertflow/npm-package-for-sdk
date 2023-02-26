@@ -1,12 +1,24 @@
 {
-  "name": "sdk-for-customer-facing-channels",
+  "name": "@expertflow/sdk-for-customer-facing-channels",
   "version": "1.0.0",
   "description": "NPM Package to install SDK for Chat, WebRTC Audio, and Video Calls that will land on Cisco Contact Center Agents handling calls using Cisco Jabber or similar in any node-based application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react-native", 
+    "expertflow", 
+    "call-center",
+    "SDK",
+    "Customer Facing Channels", 
+    "WebRTC", 
+    "JSsip", 
+    "sip", 
+    "chat", 
+    "voice", 
+    "video"
+  ],
   "author": "Expertflow",
   "license": "ISC"
 }

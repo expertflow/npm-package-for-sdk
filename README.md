@@ -1,4 +1,4 @@
-﻿# React Native SDK for Customer Facing Channels
+﻿# SDK for Customer Facing Channels
  This SDK is used for embedding customer-facing channel capabilities in a mobile-app (native, hybrid) or a web-app. Developers can use their own user interface on a Web or any Native-App. Learn more about the products we build at [Expertflow CX](https://docs.expertflow.com)
  
  ## SDK Capabilities
@@ -47,8 +47,8 @@ Properties | Explanation | Sample Value
 `ccm_url` | String value of customer channel manager IP or FQDN | ccm_url = *"https://<public_ip>"*
 `transcript_url` | String value of chat transcript IP or FQDN | transcript_url = *"https://<public_ip>"*
 
-
-## Install Packages
+If Application is in React Native make sure to install additional packages to support SDK.
+## Install Packages for React Native
 Run the Following commands before installing React Native SDK for Customer Facing Channels:
 
 * `npm i jssip-node-websocket`
